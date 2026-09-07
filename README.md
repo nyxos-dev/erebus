@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/component-terminal-825AD2?style=flat" />
   &nbsp;
-  <img src="https://img.shields.io/badge/version-1.2-825AD2?style=flat" />
+  <img src="https://img.shields.io/badge/version-1.3-825AD2?style=flat" />
   &nbsp;
   <img src="https://img.shields.io/badge/arch-x86__64-825AD2?style=flat" />
   &nbsp;
